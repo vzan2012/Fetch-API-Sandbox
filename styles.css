@@ -1,3 +1,38 @@
 /*** Custom Styles - Start ***/
+#clearall {
+  background: #eee;
+}
+
+.box-post {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.box-post .title {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.box-post .content {
+  display: block;
+}
+
+.userbox {
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+.userbox img {
+  margin: 5px auto;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.userbox strong {
+  display: block;
+}
 
 /*** Custom Styles - End ***/
